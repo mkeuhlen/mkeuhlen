@@ -1,41 +1,29 @@
-## Cybersecurity professional · public safety background · focused on GRC / Blue Team · open to Service Delivery IT roles.
-## Fresh BAS in Cybersecurity grad building off a decade-long career in public safety. I want to continue to find ways to serve my community within the cybersecurity industry.
+# Michael Keuhlen
 
-## Current certifications:
-## CompTIA A+
-## CompTIA Security+
-## Qualys VMDR Specialist
+**Cybersecurity professional with a public-safety background.** I bring the calm-under-pressure mindset from the 911 dispatch floor to defending systems, data, and the people who rely on them.
 
-## This profile showcases relevant academic and independent projects.
-## What's here:
-## Project 1
-Info about Project 1
+I've completed my A.A.S. and B.A.S. in Cybersecurity at Columbia Basin College, and I build hands-on projects across defensive infrastructure, penetration testing, and security governance. Working in various public safety roles gave me something most candidates can't claim: real experience communicating clearly under pressure and translating technical risk into terms non-technical stakeholders will feel confident to act on.
 
-## Project 2
-Info about Project 2, etc.
+**Open to** cybersecurity roles — Security Analyst, GRC, or Blue Team roles.
 
-## Tools and skills:
-## Nmap
-## Qualys VMDR
-## pfSense
-## NIST SP 800 series policy guidance
-## PCI DSS policy guidance
+## Featured projects
+Pinned below, each repo has a full write-up.
 
-## Contact Info:
-## Linkedin - https://www.linkedin.com/in/michaelkeuhlen/
-## Email - keuhlen.michael@gmail.com
+- **911 Security Awareness Training** — Designed and delivered a custom security-awareness program for a regional 911 PSAP: 4 sessions, 29 staff, with measured pre/post improvement. Owned end to end, from stakeholder proposal to results.
+- **Home Network Penetration Test** — A fully authorized engagement conducted under a signed rules-of-engagement document: OSINT, Nmap enumeration, wireless discovery, and a Qualys VMDR vulnerability scan, documented as a professional report.
+- **Home Security Lab** — Self-directed build of a pfSense firewall with pfBlockerNG filtering and a Suricata intrusion-detection system, including custom routing and detection rules.
+- **Information Security Policy Suite** — A sample governance framework: mobile device, acceptable use, incident response, disaster recovery, and records-retention policies mapped to recognized standards.
+- **Application Security Demos** — Hands-on demonstrations including Burp Suite session capture and hijacking, with the defensive takeaways.
 
-<!--
-**mkeuhlen/mkeuhlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools & focus areas
+Nmap · Qualys VMDR · pfSense · Suricata · pfBlockerNG · Burp Suite · inSSIDer · security policy, risk assessment, and compliance frameworks (NIST, PCI DSS)
 
-Here are some ideas to get you started:
+## Certifications
+CompTIA A+
+CompTIA Security+
+Qualys VMDR Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- LinkedIn: linkedin.com/in/michaelkeuhlen/
+- Résumé: "available on request"
+- Email: keuhlen.michael@gmail.com
