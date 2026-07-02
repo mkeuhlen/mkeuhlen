@@ -27,4 +27,4 @@ Qualys VMDR Specialist
 ## Get in touch
 - LinkedIn: linkedin.com/in/michaelkeuhlen/
 - Résumé: https://github.com/mkeuhlen/Resume/blob/main/GitHub%20Resume.pdf
-- Email: m.keuhlen@proton.me
+- Email: michael.keuhlen@proton.me
