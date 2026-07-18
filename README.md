@@ -2,7 +2,7 @@
 
 **Cybersecurity professional with a public-safety background.** I bring the calm-under-pressure mindset from the 911 dispatch floor to defending systems, data, and the people who rely on them.
 
-I've completed my A.A.S. and B.A.S. in Cybersecurity at Columbia Basin College, and I build hands-on projects across defensive infrastructure, penetration testing, and security governance. Working in various public safety roles gave me something most candidates can't claim: real experience communicating clearly under pressure and translating technical risk into terms non-technical stakeholders will feel confident to act on.
+I've completed my Bachelor of Applied Science in Cybersecurity at Columbia Basin College, and have built hands-on projects across defensive infrastructure, penetration testing, and security governance. Working in various public safety roles gave me something most candidates can't claim: real experience communicating clearly under pressure and translating technical risk into terms non-technical stakeholders will feel confident to act on.
 
 **Open to** Security Analyst roles, with a blue team or GRC focus.
 
